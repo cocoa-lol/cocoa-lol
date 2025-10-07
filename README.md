@@ -1,11 +1,11 @@
-# Hi there! I'm Cocoa 👋
-I'm an intermediate Python developer who enjoys working on various Python projects. I focus mainly on building scripts, automating tasks, and creating GUI applications. I'm also a beginner in Blender, and HTML.
+# Hello!
 
-🌟 Skills:
+Hello! I am cocoa. My current interests are apps that can be useful to people. I am also interested in creating backends in Flask.
 
-Python (Intermediate), 
-Blender (Beginner), 
-HTML (Beginner).
-📚 I am currently working on: Python-based projects, GUI applications, and diving deeper into Blender and HTML.
+I also enjoy things like servers.
 
 Feel free to explore and use my repositories and contact me!
+
+If you find any issues, please create an issue in the repository
+
+- cocoa :p
