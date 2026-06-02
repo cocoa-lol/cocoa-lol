@@ -1,11 +1,9 @@
 # Hello!
+Things I am interested in:
 
-Hello! I am cocoa. My current interests are apps that can be useful to people. I am also interested in creating backends in Flask.
+Servers
+Backend Development
+Python
 
-I also enjoy things like servers.
-
-Feel free to explore and use my repositories and contact me!
-
-If you find any issues, please create an issue in the repository
-
+Have an issue with any of my code? Create an issue in the repository page.
 - cocoa :p
